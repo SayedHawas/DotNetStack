@@ -1,0 +1,18 @@
+1-Select the title of all movies.
+
+2-Select the last name of all employees, without duplicates.
+
+3-Show all unrated movies.
+
+4-Select all movie theaters that are not currently showing a movie.
+
+5-Select all data from all movie theaters and, additionally, the data from the movie that is being shown in the theater (if one is being shown).
+
+6-Select all data from all movies and, if that movie is being shown in a theater, show the data from the theater.
+
+7-Show the titles of movies not currently being shown in any theaters.
+
+
+
+
+Good Luck :)

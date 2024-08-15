@@ -1,0 +1,3 @@
+-- Use Northwind Database 
+-- Show all data for Employees where ID greatest than 5 
+-- Show All Data For Orders For this Employees 

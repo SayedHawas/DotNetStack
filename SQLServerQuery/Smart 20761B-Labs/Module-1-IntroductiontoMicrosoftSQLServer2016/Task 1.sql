@@ -1,0 +1,8 @@
+--1) Install the SQL Server2016 & SSMS
+--2) Attach the DataBase Northwind in the Server
+--3) Connect to Server By (.)
+--5) Use Database Northwind 
+--4) Write Code to Show in Result Set  Your Name  
+--6) Execute this Code 
+---------------------------------------------------
+--7) Show All data in table  Employees 

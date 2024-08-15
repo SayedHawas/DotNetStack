@@ -1,0 +1,3 @@
+--Get Data From the Order Number : 10255
+--With Full Name Of Employee (Firstname , and lastname)
+--With Name Of Products And quantity Of Product

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-Sharp", "C-Sharp\C-Sharp.csproj", "{C7EF16A3-6D2B-4DFD-9800-67EB6B3534E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLServerQuery", "SQLServerQuery\SQLServerQuery.csproj", "{FED935ED-01F8-44B1-96AB-31BBDBAA5693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7EF16A3-6D2B-4DFD-9800-67EB6B3534E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7EF16A3-6D2B-4DFD-9800-67EB6B3534E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7EF16A3-6D2B-4DFD-9800-67EB6B3534E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7EF16A3-6D2B-4DFD-9800-67EB6B3534E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED935ED-01F8-44B1-96AB-31BBDBAA5693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED935ED-01F8-44B1-96AB-31BBDBAA5693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED935ED-01F8-44B1-96AB-31BBDBAA5693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED935ED-01F8-44B1-96AB-31BBDBAA5693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63399730-5CB0-4DCC-A08E-D6C13D874835}
+	EndGlobalSection
+EndGlobal
